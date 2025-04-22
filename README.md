@@ -28,3 +28,5 @@ This script is used to process Nuclei POC files, and its main functions include:
 -Check HTTP related keywords
 -Exclude files containing/readme.txt or/style. css
 -Move eligible files to the directory of step 3
+
+[![Stargazers over time](https://starchart.cc/momika233/Filter-Nuclei_poc.svg)](https://starchart.cc/momika233/Filter-Nuclei_poc)
