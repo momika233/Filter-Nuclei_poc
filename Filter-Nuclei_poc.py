@@ -134,8 +134,8 @@ def main():
     # Step 3: Process keywords
     print("\n=== Step 3: Processing Keywords ===")
     process_keywords(step2_dir, step3_dir)
-    os.system("mv step3 /root/nuclei-templates/")
-    os.system("rm -rf nuclei_poc step1 step2")
+    os.system("mv ./step3 /root/nuclei-templates/")
+    os.system("rm -rf ./nuclei_poc step1 ./step2")
     
     print("\nProcessing complete!")
 
